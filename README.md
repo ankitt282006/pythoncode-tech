@@ -1,2 +1,3 @@
 # pythoncode-tech
-This is my first respository
+This is my first git respository 
+Author - Ankit singh
